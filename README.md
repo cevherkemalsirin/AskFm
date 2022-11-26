@@ -1,2 +1,2 @@
 # AskFm
-AskFm console application
+AskFm Forum console application
